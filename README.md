@@ -74,7 +74,7 @@ Intercept: -127711.17
 * A scatter plot was generated showing actual vs predicted prices using `area` as the X-axis feature.
 * A regression line overlays the plot showing the model’s predictions.
 
-![Plot: Area vs Price](area_vs_price_regression.png) <!-- Add this plot to your repo if saved -->
+
 
 
 
