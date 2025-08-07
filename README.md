@@ -74,17 +74,8 @@ Intercept: -127711.17
 * A scatter plot was generated showing actual vs predicted prices using `area` as the X-axis feature.
 * A regression line overlays the plot showing the model’s predictions.
 
-
-
-
-
-##  Submission
-
-*  GitHub Repository Link: \[Paste your GitHub link here]
-*  Submitted via: Internship Task Submission Form
-
-
 ##  Author
+
 
 **Kasara Pavan Sai Reddy**
 B.Tech in Artificial Intelligence & Machine Learning
